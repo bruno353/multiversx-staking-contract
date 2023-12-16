@@ -1,0 +1,8 @@
+/Users/brunolaureanodossantos/multiversx-staking-contract/staking/target/debug/deps/memoffset-51c3800bff9a0c59.rmeta: /Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/lib.rs /Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/raw_field.rs /Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/offset_of.rs /Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/span_of.rs
+
+/Users/brunolaureanodossantos/multiversx-staking-contract/staking/target/debug/deps/memoffset-51c3800bff9a0c59.d: /Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/lib.rs /Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/raw_field.rs /Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/offset_of.rs /Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/span_of.rs
+
+/Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/lib.rs:
+/Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/raw_field.rs:
+/Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/offset_of.rs:
+/Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/span_of.rs:

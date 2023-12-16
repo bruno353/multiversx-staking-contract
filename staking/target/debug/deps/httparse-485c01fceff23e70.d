@@ -1,0 +1,9 @@
+/Users/brunolaureanodossantos/multiversx-staking-contract/staking/target/debug/deps/httparse-485c01fceff23e70.rmeta: /Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/lib.rs /Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/iter.rs /Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/macros.rs /Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/mod.rs /Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/fallback.rs
+
+/Users/brunolaureanodossantos/multiversx-staking-contract/staking/target/debug/deps/httparse-485c01fceff23e70.d: /Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/lib.rs /Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/iter.rs /Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/macros.rs /Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/mod.rs /Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/fallback.rs
+
+/Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/lib.rs:
+/Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/iter.rs:
+/Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/macros.rs:
+/Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/mod.rs:
+/Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/fallback.rs:

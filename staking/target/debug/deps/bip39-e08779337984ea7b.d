@@ -1,0 +1,9 @@
+/Users/brunolaureanodossantos/multiversx-staking-contract/staking/target/debug/deps/bip39-e08779337984ea7b.rmeta: /Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bip39-2.0.0/src/lib.rs /Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bip39-2.0.0/src/internal_macros.rs /Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bip39-2.0.0/src/language/mod.rs /Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bip39-2.0.0/src/language/english.rs /Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bip39-2.0.0/src/pbkdf2.rs
+
+/Users/brunolaureanodossantos/multiversx-staking-contract/staking/target/debug/deps/bip39-e08779337984ea7b.d: /Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bip39-2.0.0/src/lib.rs /Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bip39-2.0.0/src/internal_macros.rs /Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bip39-2.0.0/src/language/mod.rs /Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bip39-2.0.0/src/language/english.rs /Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bip39-2.0.0/src/pbkdf2.rs
+
+/Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bip39-2.0.0/src/lib.rs:
+/Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bip39-2.0.0/src/internal_macros.rs:
+/Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bip39-2.0.0/src/language/mod.rs:
+/Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bip39-2.0.0/src/language/english.rs:
+/Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bip39-2.0.0/src/pbkdf2.rs:

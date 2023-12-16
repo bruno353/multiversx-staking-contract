@@ -1,0 +1,130 @@
+{
+    "name": "empty",
+    "steps": [
+        {
+            "step": "setState",
+            "accounts": {
+                "address:owner": {
+                    "nonce": "0",
+                    "balance": "100,000,000,000,000,000"
+                }
+            },
+            "newAddresses": [
+                {
+                    "creatorAddress": "address:owner",
+                    "creatorNonce": "0",
+                    "newAddress": "sc:staking"                }
+            ],
+            "currentBlockInfo": {
+                "blockTimestamp": "0"
+            }
+        },
+        {
+            "step": "scDeploy",
+            "txId": "deploy",
+            "tx": {
+                "from": "address:owner",
+                "contractCode": "file:../output/staking.wasm",
+                "arguments": [],
+                "gasLimit": "5,000,000",
+                "gasPrice": "0"
+            },
+            "expect": {
+                "out": [],
+                "status": "",
+                "logs": [],
+                "gas": "*",
+                "refund": "*"
+            }
+        },
+        {
+            "step": "scCall",
+            "tx": {
+                "from": "address:owner",
+                "to": "sc:staking",
+                "egldValue": "100,000,000,000",
+                "function": "fundMe",
+                "arguments": [],
+                "gasLimit": "100,000,000",
+                "gasPrice": "0"
+            },
+            "expect": {
+                "out": [],
+                "status": "",
+                "gas": "*",
+                "refund": "*"
+            }
+        },
+        {
+            "step": "scCall",
+            "tx": {
+                "from": "address:owner",
+                "to": "sc:staking",
+                "egldValue": "1,000,000",
+                "function": "stake",
+                "arguments": [],
+                "gasLimit": "100,000,000",
+                "gasPrice": "0"
+            },
+            "expect": {
+                "out": [],
+                "status": "",
+                "gas": "*",
+                "refund": "*"
+            }
+        },
+        {
+            "step": "checkState",
+            "accounts": {
+              "address:owner": {
+                "nonce": "3",
+                "balance": "99999899999000000",
+                "storage": {}
+              },
+              "sc:staking": {
+                "nonce": "0",
+                "balance": "100001000000",
+                "code": "file:../output/staking.wasm"
+              }
+            }
+        },
+        {
+            "step": "setState",
+            "currentBlockInfo": {
+                "blockTimestamp": "140000"
+            }
+        },
+        {
+            "step": "scCall",
+            "tx": {
+                "from": "address:owner",
+                "to": "sc:staking",
+                "function": "claim_rewards",
+                "arguments": [],
+                "gasLimit": "100,000,000",
+                "gasPrice": "0"
+            },
+            "expect": {
+                "out": [],
+                "status": "",
+                "gas": "*",
+                "refund": "*"
+            }
+        },
+        {
+            "step": "checkState",
+            "accounts": {
+              "address:owner": {
+                "nonce": "4",
+                "balance": "99999900041000000",
+                "storage": {}
+              },
+              "sc:staking": {
+                "nonce": "0",
+                "balance": "99959000000",
+                "code": "file:../output/staking.wasm"
+              }
+            }
+        }
+    ]
+}

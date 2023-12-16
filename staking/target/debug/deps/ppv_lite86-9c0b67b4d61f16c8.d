@@ -1,0 +1,8 @@
+/Users/brunolaureanodossantos/multiversx-staking-contract/staking/target/debug/deps/ppv_lite86-9c0b67b4d61f16c8.rmeta: /Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/lib.rs /Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/soft.rs /Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/types.rs /Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/generic.rs
+
+/Users/brunolaureanodossantos/multiversx-staking-contract/staking/target/debug/deps/ppv_lite86-9c0b67b4d61f16c8.d: /Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/lib.rs /Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/soft.rs /Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/types.rs /Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/generic.rs
+
+/Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/lib.rs:
+/Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/soft.rs:
+/Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/types.rs:
+/Users/brunolaureanodossantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/generic.rs:

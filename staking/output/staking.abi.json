@@ -1,0 +1,98 @@
+{
+    "buildInfo": {
+        "rustc": {
+            "version": "1.71.0-nightly",
+            "commitHash": "a2b1646c597329d0a25efa3889b66650f65de1de",
+            "commitDate": "2023-05-25",
+            "channel": "Nightly",
+            "short": "rustc 1.71.0-nightly (a2b1646c5 2023-05-25)"
+        },
+        "contractCrate": {
+            "name": "staking",
+            "version": "0.0.0"
+        },
+        "framework": {
+            "name": "multiversx-sc",
+            "version": "0.45.1"
+        }
+    },
+    "name": "StakingContract",
+    "constructor": {
+        "inputs": [],
+        "outputs": []
+    },
+    "endpoints": [
+        {
+            "name": "getStakingPosition",
+            "mutability": "readonly",
+            "inputs": [
+                {
+                    "name": "donor",
+                    "type": "Address"
+                }
+            ],
+            "outputs": [
+                {
+                    "type": "Stake"
+                }
+            ]
+        },
+        {
+            "name": "getTotalStaked",
+            "mutability": "readonly",
+            "inputs": [],
+            "outputs": [
+                {
+                    "type": "BigUint"
+                }
+            ]
+        },
+        {
+            "name": "stake",
+            "mutability": "mutable",
+            "payableInTokens": [
+                "EGLD"
+            ],
+            "inputs": [],
+            "outputs": []
+        },
+        {
+            "name": "claim_rewards",
+            "mutability": "mutable",
+            "inputs": [],
+            "outputs": []
+        },
+        {
+            "name": "unstake",
+            "mutability": "mutable",
+            "inputs": [],
+            "outputs": []
+        },
+        {
+            "name": "fundMe",
+            "mutability": "mutable",
+            "payableInTokens": [
+                "EGLD"
+            ],
+            "inputs": [],
+            "outputs": []
+        }
+    ],
+    "esdtAttributes": [],
+    "hasCallback": false,
+    "types": {
+        "Stake": {
+            "type": "struct",
+            "fields": [
+                {
+                    "name": "amount",
+                    "type": "BigUint"
+                },
+                {
+                    "name": "reward_debt",
+                    "type": "BigUint"
+                }
+            ]
+        }
+    }
+}

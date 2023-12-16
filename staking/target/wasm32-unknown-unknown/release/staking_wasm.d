@@ -1,0 +1,1 @@
+/Users/brunolaureanodossantos/multiversx-staking-contract/staking/target/wasm32-unknown-unknown/release/staking_wasm.wasm: /Users/brunolaureanodossantos/multiversx-staking-contract/staking/src/staking.rs /Users/brunolaureanodossantos/multiversx-staking-contract/staking/wasm/src/lib.rs

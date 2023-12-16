@@ -1,0 +1,1 @@
+/Users/brunolaureanodossantos/multiversx-staking-contract/staking/target/debug/staking-meta: /Users/brunolaureanodossantos/multiversx-staking-contract/staking/meta/src/main.rs /Users/brunolaureanodossantos/multiversx-staking-contract/staking/src/staking.rs
